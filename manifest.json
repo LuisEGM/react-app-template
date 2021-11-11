@@ -1,7 +1,7 @@
 {
   "vendor": "hardtech",
   "name": "custom-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Custom app react",
   "description": "Custom app from react to vtexIo",
   "builders": {
