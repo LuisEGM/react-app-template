@@ -10,6 +10,9 @@
     "docs": "0.x",
     "store": "0.x"
   },
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  },
   "dependencies": {},
   "registries": [
     "smartcheckout"
